@@ -198,7 +198,7 @@ const getListaPelaDataDeConclusao = function(siglaDaDisciplina, dataDeConclusao)
 //console.log(getListaDeAlunos())
 //console.log(getListaDoAlunoPelaMatricula('20151001002'))
 //console.log(getListaDeAlunoPeloCurso('RDS'))
-console.log(getListaDoAlunoPorStatus('Cursando'))
+// console.log(getListaDoAlunoPorStatus('Cursando'))
 //console.log(getListaCursoStatus('RDS','reprovado'))
 //console.log(getListaPelaDataDeConclusao('DS','2024'))
 
